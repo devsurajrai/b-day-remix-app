@@ -1,0 +1,14 @@
+.wish-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    width:100vw;
+    background:url('../assets/giphy.gif')
+}
+.heading{
+    padding:20px;
+    font-size: 40px;
+    color: rgb(44, 39, 56);
+}
